@@ -12,7 +12,7 @@ Proyek ini merupakan submission akhir untuk kelas "Belajar Analisis Data dengan 
 
 ## Tautan Dashboard Streamlit Cloud
 Anda dapat mengakses dashboard interaktif yang telah dideploy secara online melalui tautan berikut:
-👉 [Dashboard E-Commerce Anda](https://sxeivtpycoxccsz9y7kfjv.streamlit.app/)
+👉 [Dashboard E-Commerce](https://sxeivtpycoxccsz9y7kfjv.streamlit.app/)
 
 ## Cara Menjalankan Aplikasi Secara Lokal
 
