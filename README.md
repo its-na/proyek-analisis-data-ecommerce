@@ -23,8 +23,10 @@ Pastikan Anda sudah mengunduh seluruh file proyek ini ke komputer Anda.
 Buka terminal atau command prompt pada direktori proyek, lalu jalankan perintah berikut untuk menginstal pustaka yang diperlukan:
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Menjalankan Dashboard Streamlit
 Untuk menjalankan aplikasi dashboard secara lokal, jalankan perintah berikut di terminal Anda:
 ```bash
 streamlit run dashboard/dashboard.py
+```
